@@ -14,7 +14,7 @@ import {
 
 const { width, height } = Dimensions.get('window');
 
-const API_KEY = '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';
+const API_KEY = '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';
 
 const App = () => {
   const [messages, setMessages] = useState([]);
